@@ -28,3 +28,16 @@ Examples:
 <br>
 move_zeros([1, 0, 1, 2, 0, 1, 3]) 
 <b> returns [1, 1, 2, 1, 3, 0, 0] </b>
+
+## Mexican wave
+<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Movin_%20Zeros_To_The%20_End/imagex.PNG">
+DESCRIPTION:
+<br>
+ 1.  The input string will always be lower case but maybe empty.
+ 2.  If the character in the string is whitespace then pass over it as if it was an empty seat
+<br>
+<br>
+Examples:
+<br>
+wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
+
