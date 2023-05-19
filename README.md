@@ -58,3 +58,22 @@ Examples:
  <br>
  -unique_in_order((1, 2, 2, 3, 3))   == [1, 2, 3]
  <br>
+ 
+## valid_braces
+<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Valid%20Braces/imagex.PNG">
+DESCRIPTION:
+<br>
+A string of braces is considered valid if all braces are matched with the correct brace.
+<br>
+<br>
+Examples:
+<br>
+"(){}[]"   =>  True
+<br>
+"([{}])"   =>  True
+<br>
+"(}"       =>  False
+<br>
+"[(])"     =>  False
+<br>
+"[({})](]" =>  False
