@@ -1,6 +1,6 @@
 # CodeWars_challenges
 ## Pete, the baker
-<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Peter_the_baker/image.PNG">
+<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Peter_the_baker/imagex.PNG">
 DESCRIPTION:
 <br>
 Pete likes to bake some cakes. He has some recipes and ingredients. Unfortunately he is not good in maths. Can you help him to find out, how many cakes he could bake considering his recipes?
