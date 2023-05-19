@@ -1,6 +1,6 @@
 # CodeWars_challenges
 ## My Profile
-<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Peter_the_baker/imagesax.PNG">
+<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Profile/profile.PNG">
 ## Pete, the baker
 <img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Peter_the_baker/imagex.PNG">
 DESCRIPTION:
