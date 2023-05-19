@@ -10,10 +10,21 @@ Write a function cakes(), which takes the recipe (object) and the available ingr
 <br>
 Examples:
 <br>
+cakes({flour: 500, sugar: 200, eggs: 1}, {flour: 1200, sugar: 1200, eggs: 5, milk: 200})
 <b>must return 2</b>
 <br>
-cakes({flour: 500, sugar: 200, eggs: 1}, {flour: 1200, sugar: 1200, eggs: 5, milk: 200})
-<br>
+cakes({apples: 3, flour: 300, sugar: 150, milk: 100, oil: 100}, {sugar: 500, flour: 2000, milk: 2000})
 <b>must return 0</b>
 <br>
-cakes({apples: 3, flour: 300, sugar: 150, milk: 100, oil: 100}, {sugar: 500, flour: 2000, milk: 2000})
+
+## Moving Zeros To The End
+<img src="https://github.com/atisamhaq123/CodeWars_challenges/blob/main/Movin_%20Zeros_To_The%20_End/imagex.PNG">
+DESCRIPTION:
+<br>
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+<br>
+<br>
+Examples:
+<br>
+move_zeros([1, 0, 1, 2, 0, 1, 3]) 
+<b> returns [1, 1, 2, 1, 3, 0, 0] </b>
